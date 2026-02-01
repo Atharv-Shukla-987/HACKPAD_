@@ -5,8 +5,9 @@
 
 #PCB_DESIGN
 
+![Uploading PCB_DESIGN.png…]()
 
-<img width="648" height="501" alt="PCB_DESIGN" src="https://github.com/user-attachments/assets/a75ec82c-b541-475b-9f32-96dcdb51b461" />
+
 
 #PCB_3D
 
