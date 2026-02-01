@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "lib2")(type "KiCad")(uri "D:/KiCAD/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
-)
