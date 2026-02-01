@@ -5,22 +5,29 @@
 
 #PCB_DESIGN
 
-<img width="648" height="501" alt="PCB_DESIGN" src="https://github.com/user-attachments/assets/9ec62e77-b1d8-44d8-889c-0ef971cf0269" />
 
+<img width="648" height="501" alt="PCB_DESIGN" src="https://github.com/user-attachments/assets/a75ec82c-b541-475b-9f32-96dcdb51b461" />
+
+#PCB_3D
+
+<img width="800" height="578" alt="PCB_3D" src="https://github.com/user-attachments/assets/3594b0f1-b778-456e-9356-96446aa66840" />
 
 
 
 #case_top
 
-<img width="856" height="487" alt="CASE_TOP" src="https://github.com/user-attachments/assets/9c2475c2-e934-4ee7-8441-48fa15a6d61a" />
+<img width="741" height="482" alt="CASE_TOP" src="https://github.com/user-attachments/assets/8b6869f8-9b07-43cc-ab97-eb7d6af831ae" />
+
 
 #case_bottom
 
-<img width="805" height="513" alt="CASE_BOTTOM" src="https://github.com/user-attachments/assets/21c4b6d2-34a6-4a0e-a927-98055000102e" />
+<img width="756" height="471" alt="CASE_BOTTOM" src="https://github.com/user-attachments/assets/133f2f42-35b7-4423-be35-ea7158e953ad" />
+
 
 #case
 
-<img width="823" height="498" alt="CASE" src="https://github.com/user-attachments/assets/6ed4a6b3-8c22-48b0-bbe7-505a5997c155" />
+<img width="770" height="486" alt="CASE" src="https://github.com/user-attachments/assets/3777f39a-0ae7-4b09-b566-878764f0c14e" />
+
 
 #BOM
 
