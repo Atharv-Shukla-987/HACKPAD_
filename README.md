@@ -5,13 +5,15 @@
 
 #PCB_DESIGN
 
-![Uploading PCB_DESIGN.png…]()
+
+<img width="713" height="541" alt="PCB_DESIGN" src="https://github.com/user-attachments/assets/deebc6f5-d00a-4896-8b98-9a96d69c3e59" />
 
 
 
 #PCB_3D
 
-<img width="800" height="578" alt="PCB_3D" src="https://github.com/user-attachments/assets/3594b0f1-b778-456e-9356-96446aa66840" />
+
+<img width="774" height="555" alt="PCB_3D" src="https://github.com/user-attachments/assets/e55d51bd-7cb9-468c-a261-6e13d757c950" />
 
 
 
@@ -28,6 +30,11 @@
 #case
 
 <img width="770" height="486" alt="CASE" src="https://github.com/user-attachments/assets/3777f39a-0ae7-4b09-b566-878764f0c14e" />
+
+#L_PAD
+
+<img width="659" height="464" alt="L_PAD" src="https://github.com/user-attachments/assets/a382324e-9c86-4a54-b165-9d4530c91f33" />
+
 
 
 #BOM
