@@ -1,5 +1,5 @@
 #L_PAD 
-It is L shape micropad. It is my first project. Thanks to hack club, I got a chance to design it. It's design is inspired from sandwich, its case has no wall which gives it fi look . It can be attached with keyboard as it is L shaped. It has 12 keys and some leds.
+It is L shape micropad. It is my first project. Thanks to hack club, I got a chance to design it.I have always faced many problems in remembering the shortkeys , so i added my most used shortkeys. It's design is inspired from sandwich, its case has no wall which gives it fi look . It can be attached with keyboard as it is L shaped. It has 12 keys and some leds.
 
 #SCHEMATIC_DESIGN
 I have design this PCB using KiCAD. 
@@ -10,7 +10,8 @@ Here are some pictures.
 #PCB_DESIGN
 I also have make  holes with smooth out Conners so it won't wobble. 
 
-< img width="713" height="541" alt="PCB_DESIGN" src="https://github.com/user-attachments/assets/deebc6f5-d00a-4896-8b98-9a96d69c3e59" />
+
+<img width="713" height="541" alt="PCB_DESIGN" src="https://github.com/user-attachments/assets/c517ab1c-c283-4338-9d24-bd4e2bba049b" />
 
 
 
@@ -39,7 +40,31 @@ I also have make  holes with smooth out Conners so it won't wobble.
 
 <img width="659" height="464" alt="L_PAD" src="https://github.com/user-attachments/assets/a382324e-9c86-4a54-b165-9d4530c91f33" />
 
+#FIRMWARE OVERVEIW
 
+I have use KMK for my firmware.These are the keys which will on my L_PAD.
+
+Row 1: Essentials (2 Keys)
+
+​Key 1: Copy (Ctrl + C)
+​Key 2: Paste (Ctrl + V)
+​Row 2: VS Code Navigation (2 Keys)
+​Key 3: Command Palette (Ctrl + Shift + P)
+​Key 4: Quick Open File (Ctrl + P)
+
+​Row 3: ML - Google Colab (4 Keys)
+
+​Key 5: Run Cell and Move (Shift + Enter)
+​Key 6: Run All Above (Ctrl + F9)
+​Key 7: New Code Cell (Ctrl + M then B)
+​Key 8: Interrupt Execution (Ctrl + M then I)
+
+Row 4: Power User Navigation (4 Keys)
+
+​Key 9: Task View (Win + Tab)
+​Key 10: Clipboard History (Win + V)
+​Key 11: Reopen Closed Tab (Ctrl + Shift + T)
+​Key 12: Quick Switcher (Alt + Tab)
 
 #BOM
 
