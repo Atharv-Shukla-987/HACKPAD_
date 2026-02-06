@@ -1,12 +1,15 @@
+#L_PAD 
+It is L shape micropad. It is my first project. Thanks to hack club, I got a chance to design it. It's design is inspired from sandwich, its case has no wall which gives it fi look . It can be attached with keyboard as it is L shaped. It has 12 keys and some leds.
 
 #SCHEMATIC_DESIGN
+I have design this PCB using KiCAD. 
+Here are some pictures.
 
 <img width="819" height="462" alt="SCHEMATIC_DESIGN" src="https://github.com/user-attachments/assets/102e920e-fb51-4527-8cb2-c531579f8f27" />
 
 #PCB_DESIGN
-
-
-<img width="713" height="541" alt="PCB_DESIGN" src="https://github.com/user-attachments/assets/deebc6f5-d00a-4896-8b98-9a96d69c3e59" />
+I also have make  holes with smooth out Conners so it won't wobble. 
+< img width="713" height="541" alt="PCB_DESIGN" src="https://github.com/user-attachments/assets/deebc6f5-d00a-4896-8b98-9a96d69c3e59" />
 
 
 
