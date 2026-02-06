@@ -1,13 +1,16 @@
 # L_PAD 
+
 It is L shape micropad. It is my first project. Thanks to hack club, I got a chance to design it.I have always faced many problems in remembering the shortkeys , so i added my most used shortkeys. It's design is inspired from sandwich, its case has no wall which gives it fi look . It can be attached with keyboard as it is L shaped. It has 12 keys and some leds.
 
 # SCHEMATIC_DESIGN
+
 I have design this PCB using KiCAD. 
 Here are some pictures.
 
 <img width="819" height="462" alt="SCHEMATIC_DESIGN" src="https://github.com/user-attachments/assets/102e920e-fb51-4527-8cb2-c531579f8f27" />
 
 # PCB_DESIGN
+
 I also have make  holes with smooth out Conners so it won't wobble. 
 
 
@@ -31,16 +34,19 @@ I have designed the case using fussion 360 . The design is consist of just two p
 
 
 # case_bottom
+
 Here is image of top plate.
 <img width="756" height="471" alt="CASE_BOTTOM" src="https://github.com/user-attachments/assets/133f2f42-35b7-4423-be35-ea7158e953ad" />
 
 
 # case
+
 Here is image of both top and bottom plate assemble.
 
 <img width="770" height="486" alt="CASE" src="https://github.com/user-attachments/assets/3777f39a-0ae7-4b09-b566-878764f0c14e" />
 
 # L_PAD
+
 here is image of whole micropad or L_PAD.
 <img width="659" height="464" alt="L_PAD" src="https://github.com/user-attachments/assets/a382324e-9c86-4a54-b165-9d4530c91f33" />
 
