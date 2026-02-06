@@ -36,6 +36,7 @@ I have designed the case using fussion 360 . The design is consist of just two p
 # case_bottom
 
 Here is image of top plate.
+
 <img width="756" height="471" alt="CASE_BOTTOM" src="https://github.com/user-attachments/assets/133f2f42-35b7-4423-be35-ea7158e953ad" />
 
 
@@ -48,6 +49,7 @@ Here is image of both top and bottom plate assemble.
 # L_PAD
 
 here is image of whole micropad or L_PAD.
+
 <img width="659" height="464" alt="L_PAD" src="https://github.com/user-attachments/assets/a382324e-9c86-4a54-b165-9d4530c91f33" />
 
 # FIRMWARE OVERVEIW
