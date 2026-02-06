@@ -9,6 +9,7 @@ Here are some pictures.
 
 #PCB_DESIGN
 I also have make  holes with smooth out Conners so it won't wobble. 
+
 < img width="713" height="541" alt="PCB_DESIGN" src="https://github.com/user-attachments/assets/deebc6f5-d00a-4896-8b98-9a96d69c3e59" />
 
 
