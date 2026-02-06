@@ -1,4 +1,4 @@
-###L_PAD 
+# L_PAD 
 It is L shape micropad. It is my first project. Thanks to hack club, I got a chance to design it.I have always faced many problems in remembering the shortkeys , so i added my most used shortkeys. It's design is inspired from sandwich, its case has no wall which gives it fi look . It can be attached with keyboard as it is L shaped. It has 12 keys and some leds.
 
 #SCHEMATIC_DESIGN
